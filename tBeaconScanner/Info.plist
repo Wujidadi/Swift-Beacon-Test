@@ -68,5 +68,7 @@
     <string>您必須同意 App 在使用期間能夠持續存取您的位置</string>
     <key>NSLocationWhenInUseUsageDescription</key>
     <string>您必須同意 App 在使用期間能夠存取您的位置</string>
+    <key>NSLocationAlwaysUsageDescription</key>
+    <string>您必須同意 App 能夠持續存取您的位置</string>
 </dict>
 </plist>
